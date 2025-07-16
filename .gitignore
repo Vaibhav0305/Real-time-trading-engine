@@ -1,0 +1,32 @@
+# Build and binary files
+/build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.exe
+*.obj
+*.o
+*.log
+*.csv
+*.user
+*.suo
+*.vcxproj*
+*.dir
+*.pdb
+*.idb
+*.ipch
+*.aps
+*.ncb
+*.sdf
+*.opensdf
+*.tlog
+*.lastbuildstate
+*.db
+*.VC.db
+*.VC.opendb
+# Logs
+*.log
+# OS files
+.DS_Store
+Thumbs.db
