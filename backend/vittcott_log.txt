@@ -1,0 +1,20 @@
+2025-08-10 15:16:38 - 📝 Order logged: Order ID: ORD-175481919802741, Symbol: AAPL, Type: BUY, Price: 150.5, Quantity: 100, Timestamp: 1754819198028
+2025-08-10 15:16:38 - Placing order: Order ID: ORD-175481919802741, Symbol: AAPL, Type: BUY, Price: 150.5, Quantity: 100, Timestamp: 1754819198028
+2025-08-10 15:16:38 - 📥 New Order Received: Order ID: ORD-175481919802741, Symbol: AAPL, Type: BUY, Price: 150.5, Quantity: 100, Timestamp: 1754819198028
+2025-08-10 15:16:38 - ✅ Order added to book. Attempting match...
+2025-08-10 15:16:38 - 📄 Saved all orders to orders.csv
+2025-08-10 15:17:06 - 📝 Order logged: Order ID: ORD-175481922679241, Symbol: AAPL, Type: BUY, Price: 150.5, Quantity: 100, Timestamp: 1754819226792
+2025-08-10 15:17:06 - Placing order: Order ID: ORD-175481922679241, Symbol: AAPL, Type: BUY, Price: 150.5, Quantity: 100, Timestamp: 1754819226792
+2025-08-10 15:17:06 - 📥 New Order Received: Order ID: ORD-175481922679241, Symbol: AAPL, Type: BUY, Price: 150.5, Quantity: 100, Timestamp: 1754819226792
+2025-08-10 15:17:06 - ✅ Order added to book. Attempting match...
+2025-08-10 15:17:06 - 📄 Saved all orders to orders.csv
+2025-08-10 15:17:41 - 📝 Order logged: Order ID: ORD-175481926146741, Symbol: AAPL, Type: BUY, Price: 150.5, Quantity: 100, Timestamp: 1754819261467
+2025-08-10 15:17:41 - Placing order: Order ID: ORD-175481926146741, Symbol: AAPL, Type: BUY, Price: 150.5, Quantity: 100, Timestamp: 1754819261467
+2025-08-10 15:17:41 - 📥 New Order Received: Order ID: ORD-175481926146741, Symbol: AAPL, Type: BUY, Price: 150.5, Quantity: 100, Timestamp: 1754819261467
+2025-08-10 15:17:41 - ✅ Order added to book. Attempting match...
+2025-08-10 15:17:41 - 📄 Saved all orders to orders.csv
+2025-08-10 15:17:42 - 📝 Order logged: Order ID: ORD-175481926292441, Symbol: MSFT, Type: SELL, Price: 300, Quantity: 50, Timestamp: 1754819262924
+2025-08-10 15:17:42 - Placing order: Order ID: ORD-175481926292441, Symbol: MSFT, Type: SELL, Price: 300, Quantity: 50, Timestamp: 1754819262924
+2025-08-10 15:17:42 - 📥 New Order Received: Order ID: ORD-175481926292441, Symbol: MSFT, Type: SELL, Price: 300, Quantity: 50, Timestamp: 1754819262924
+2025-08-10 15:17:42 - ✅ Order added to book. Attempting match...
+2025-08-10 15:17:42 - 📄 Saved all orders to orders.csv

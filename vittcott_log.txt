@@ -1,0 +1,5 @@
+2025-08-10 15:10:34 - 📄 Saved all orders to orders.csv
+2025-08-10 15:11:31 - 📝 Order logged: Order ID: ORD-175481889174041, Symbol: aapl, Type: BUY, Price: 5e+006, Quantity: 1, Timestamp: 1754818891740
+2025-08-10 15:11:31 - Placing order: Order ID: ORD-175481889174041, Symbol: aapl, Type: BUY, Price: 5e+006, Quantity: 1, Timestamp: 1754818891740
+2025-08-10 15:11:31 - 📥 New Order Received: Order ID: ORD-175481889174041, Symbol: aapl, Type: BUY, Price: 5e+006, Quantity: 1, Timestamp: 1754818891740
+2025-08-10 15:11:31 - ✅ Order added to book. Attempting match...

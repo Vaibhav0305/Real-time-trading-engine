@@ -1,0 +1,5 @@
+set(Python_EXECUTABLE "C:/Users/Dell/AppData/Local/Programs/Python/Python311/python.exe")
+set(Python_INCLUDE_DIRS "C:/Users/Dell/AppData/Local/Programs/Python/Python311/include")
+set(Python_LIBRARIES "C:/Users/Dell/AppData/Local/Programs/Python/Python311/libs/python311.lib")
+set(Python_Development.Module_FOUND TRUE)
+set(Python_FOUND TRUE)

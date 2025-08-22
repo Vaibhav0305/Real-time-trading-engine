@@ -1,0 +1,113 @@
+.watchlist {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.watchlist h2 {
+  margin: 0 0 30px 0;
+  font-size: 28px;
+  font-weight: 600;
+  color: #ffffff;
+}
+
+.watchlist-table {
+  background: #2d3748;
+  border-radius: 12px;
+  border: 1px solid #4a5568;
+  overflow: hidden;
+}
+
+.table-header {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr 1.5fr 1fr 1.5fr;
+  gap: 20px;
+  padding: 20px;
+  background: #4a5568;
+  font-weight: 600;
+  color: #ffffff;
+}
+
+.header-cell {
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.table-row {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr 1.5fr 1fr 1.5fr;
+  gap: 20px;
+  padding: 20px;
+  border-bottom: 1px solid #4a5568;
+  transition: background 0.2s;
+}
+
+.table-row:hover {
+  background: #4a5568;
+}
+
+.table-row:last-child {
+  border-bottom: none;
+}
+
+.cell {
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+}
+
+.cell.symbol {
+  font-weight: 700;
+  color: #ffffff;
+}
+
+.cell.name {
+  color: #a0aec0;
+}
+
+.cell.price {
+  font-weight: 600;
+  color: #ffffff;
+}
+
+.cell.change {
+  font-weight: 500;
+}
+
+.cell.volume {
+  color: #a0aec0;
+}
+
+.cell.actions {
+  gap: 10px;
+}
+
+.action-btn {
+  padding: 8px 16px;
+  border: none;
+  border-radius: 6px;
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.action-btn.buy {
+  background: #48bb78;
+  color: #ffffff;
+}
+
+.action-btn.buy:hover {
+  background: #38a169;
+}
+
+.action-btn.sell {
+  background: #f56565;
+  color: #ffffff;
+}
+
+.action-btn.sell:hover {
+  background: #e53e3e;
+}
+
+

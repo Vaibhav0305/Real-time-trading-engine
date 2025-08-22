@@ -1,0 +1,50 @@
+.menu {
+  width: 250px;
+  background: #1a1f2e;
+  border-right: 1px solid #4a5568;
+  padding: 20px 0;
+}
+
+.menu-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.menu-item {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  width: 100%;
+  padding: 15px 25px;
+  background: none;
+  border: none;
+  color: #a0aec0;
+  font-size: 16px;
+  cursor: pointer;
+  transition: all 0.2s;
+  text-align: left;
+}
+
+.menu-item:hover {
+  background: #2d3748;
+  color: #ffffff;
+}
+
+.menu-item.active {
+  background: #3182ce;
+  color: #ffffff;
+  border-right: 3px solid #48bb78;
+}
+
+.menu-icon {
+  font-size: 20px;
+  width: 24px;
+  text-align: center;
+}
+
+.menu-label {
+  font-weight: 500;
+}
+
+
